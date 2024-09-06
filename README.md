@@ -1,6 +1,8 @@
 # Hotel-Reviews-Analysis
 This Jupyter Notebook provides a comprehensive analysis of Highfield Private Hotel reviews, aiming to gain insights into guest satisfaction and identify areas for improvement.
 
+![img](img.png)
+
 ### **Data**
 The analysis is based on a CSV file containing hotel reviews, with columns such as:
 
@@ -42,7 +44,3 @@ The analysis is based on a CSV file containing hotel reviews, with columns such 
    ```
 2. **Replace the filename:** In the notebook, replace `reviews.csv'` with the actual path to your CSV file.
 3. **Run the cells:** Execute the cells in the notebook to perform the analysis and generate visualizations.
-
-### **Screenshot**
-
-[](img.png)
